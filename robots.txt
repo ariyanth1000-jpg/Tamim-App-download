@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ariyanth1000-jpg.github.io/Tamim-App-download/sitemap.xml
